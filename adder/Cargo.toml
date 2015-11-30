@@ -1,0 +1,4 @@
+[package]
+name = "adder"
+version = "0.1.0"
+authors = ["CHEN Mingyi <imcmy@outlook.com>"]
